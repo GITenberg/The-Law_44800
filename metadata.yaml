@@ -1,0 +1,35 @@
+_repo: The-Law_44800
+_version: 0.1.0
+alternative_title: La loi. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bastiat, Frédéric
+    aliases:
+    - Bastiat, Claude Frédéric
+    - Bastiat, Frederic
+    birthdate: 1801
+    deathdate: 1850
+    gutenberg_agent_id: '6395'
+    url: http://www.gutenberg.org/2009/agents/6395
+    wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
+description: ''
+gutenberg_issued: '2014-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Property'
+- !lcsh 'Law and socialism'
+- !lcc 'K'
+- !lcsh 'Law -- Philosophy'
+- !lcsh 'Socialism and liberty'
+- !lcsh 'Justice, Administration of'
+title: The Law
+url: http://www.gutenberg.org/ebooks/44800
